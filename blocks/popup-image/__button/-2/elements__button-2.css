@@ -1,0 +1,23 @@
+.elements__button-2 {
+    width: 150px;
+    margin-left: 15px;
+    height: 20px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+    border-width: 1px;
+    cursor: pointer;
+    background-color: #a3c8ff;
+    border-radius: 15px;
+    border: none;
+}
+.elements__button-2:active {
+    background-color: white;
+}
+.elements__button-2:hover {
+    background-color: white;
+}
