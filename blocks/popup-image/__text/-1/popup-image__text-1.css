@@ -1,0 +1,16 @@
+.popup-image__text-1 {
+    color: aliceblue;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+}
+@media screen and (max-width: 484px) {
+    .popup-image__text-1 {
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 414px) {
+    .popup-image__text-1  {
+        font-size: 10px;
+    }
+}
